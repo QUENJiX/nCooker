@@ -8,7 +8,7 @@
     justify-content: center;
     position: relative;
     background: linear-gradient(135deg, rgba(45, 30, 62, 0.9), rgba(26, 15, 46, 0.95)),
-                url('../images/about-header-bg.jpg') center/cover no-repeat fixed;
+                url('../Images/about-header-bg.jpg') center/cover no-repeat fixed;
     padding: 0 20px;
     overflow: hidden;
     margin-top: 80px; /* Add space for fixed navbar */

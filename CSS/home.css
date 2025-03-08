@@ -9,7 +9,7 @@
     position: relative;
     overflow: hidden;
     padding: 0 20px;
-    background: url('../images/hero-bg.jpg') center/cover no-repeat;
+    background: url('../Images/hero-bg.jpg') center/cover no-repeat;
 }
 
 .hero-overlay {
